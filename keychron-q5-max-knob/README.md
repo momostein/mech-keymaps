@@ -1,6 +1,7 @@
 v# Keychron Q5 Max
 
 The [Keychron Q5 Max](https://www.keychron.com/products/keychron-q5-max-qmk-via-wireless-custom-mechanical-keyboard) is a 96% keyboard.
+Use the [Keychron Launcher](https://launcher.keychron.com/) to configure this keyboard.
 
 ## Changes Against Default
 
@@ -18,7 +19,7 @@ No changes were applied to the Mac layers.
 | Page Down        | Home         |
 | Home             | End          |
 
-#### Win + Fn Layer
+### Win + Fn Layer
 
 | Default function | New function   |
 | ---------------- | -------------- |
